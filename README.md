@@ -1,4 +1,4 @@
-# Devtown-Project
+# ANN model for handwritten digit prediction
 
 It is a ANN model which predicts as to which is the handwritten Digit with 97.68% accuracy.
 
